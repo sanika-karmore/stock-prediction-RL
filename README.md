@@ -57,6 +57,4 @@ The pipeline generates two CSV files:
 
 ## Error Handling
 The pipeline includes comprehensive error handling and logging to ensure robust operation and easy debugging.
-
-## License
-[Add your preferred license here] 
+ 
